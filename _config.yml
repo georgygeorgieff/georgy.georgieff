@@ -1,15 +1,17 @@
 # Site settings
- title: Georgy Georgieff
- description: Jekyll Theme Minimal Resume
+title: Junji Wiener
+description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
- url: "georgy.georgieff.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: https://georgy.georgieff.github.io/ # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Georgy Georgieff
-user_description: I\'m a Junior Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately 
-user_title:Software Engineer
-email: georgy.georgieff@gmail.com
-
+username: Junji Wiener
+user_description: Current masters student at the University of Colorado, Boulder, Leeds School of Business where I am studying Business Analytics with a focus on Security. I graduated from Chestnut Hill College in 2013 with a Bachelors of Science in Accounting and completed my MBA with a concentration in Finance at Philadelphia University in 2015. During my MBA I worked at SEI Investments Company on the Angelo Gordon client as a fund accountant for alternative investments (bank debt and real estate). After leaving SEI, I joined Accenture as a Client Financial Management Analyst handling contractual finances from pricing, forecasting, presenting monthly financials and being the business advisor for client teams.
+user_title: Masters Student @ The University of Colorado, Boulder Leeds School of Business
+email: dawi9234@colorado.edu
+linkedin_username: junjiwiener
+github_username: 8Jun
+reddit_username: BATTLECATHOTS
 
 # Google-analytics
 google-analytics:
