@@ -1,6 +1,6 @@
 # Site settings
-# title: Georgy Georgieff
-# description: Jekyll Theme Minimal Resume
+ title: Georgy Georgieff
+description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
  url: "georgy.georgieff.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
